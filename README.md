@@ -1,6 +1,6 @@
 ### Boas vindas
 
-Meu nome é Poliane Candido
+Meu nome é Poliane Candido ❤
 
 -Estou estudando na [Alura](https://www.alura.com.br)
 
